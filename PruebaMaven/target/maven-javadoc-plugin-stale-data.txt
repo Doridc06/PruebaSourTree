@@ -1,0 +1,22 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-17\bin\javadoc.exe" @options @packages"
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\allclasses-index.html = 1680179054462
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\allpackages-index.html = 1680179054468
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\element-list = 1680179054376
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\help-doc.html = 1680179054531
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\index-all.html = 1680179054513
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\index.html = 1680179054518
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\jquery-ui.overrides.css = 1680179054611
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\member-search-index.js = 1680179054484
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\module-search-index.js = 1680179054473
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\options = 1680179052585
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\overview-tree.html = 1680179054436
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\package-search-index.js = 1680179054477
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\packages = 1680179052588
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\script.js = 1680179054553
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\search.js = 1680179054560
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\stylesheet.css = 1680179054547
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\tag-search-index.js = 1680179054489
+C:\Users\d.da.costa.magello\IdeaProjects\PruebaMaven\target\site\apidocs\type-search-index.js = 1680179054480
